@@ -47,6 +47,6 @@ Translated Data
 Normalized Data
 └── OP_<LANGUAGE>_<KESTREL_FILE_NO>_<CATEGORY>_<Mixed/Only>_norm.txt
 ```
-Fisrst extraction_tagging.py is used for the extraction part
-Second translated_tagging.py  is used for the translation part
-Third gemini_norm.py is used for obtaining the complete normalized and unnormalized data.
+First, extraction_tagging.py is used for the extraction part, 
+   second translated_tagging.py  is used for the translation part,
+    third gemini_norm.py is used for obtaining the complete normalized and unnormalized data.
